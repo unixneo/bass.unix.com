@@ -1,4 +1,4 @@
-```markdown
+
 # Tim Bass
 
 **Independent Researcher**  
@@ -33,5 +33,3 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 *All ideas, concepts, and intellectual content are solely the work of the author.*
 
 [unix.com](https://unix.com)
-```
-
