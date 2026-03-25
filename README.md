@@ -19,7 +19,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 - **DLBP: Deterministic LLM Blackboard Pipeline** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
 - **MKMU Conceptual Framework** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
 - **MKMU Reference Implementation & Evaluation** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
-- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19159055)
+- **Digital Echopraxia (to be revised)** — [Preprint](https://doi.org/10.5281/zenodo.19159055)
 
 ---
 
