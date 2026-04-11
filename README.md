@@ -18,11 +18,11 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 - **A Multi-Agent LLM Experiment Revealing Architect-Level Failure Modes in Scientific Software Development** (2026-04-08) — [Preprint](https://doi.org/10.5281/zenodo.19466731)
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
-- **Blackboard SA** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
-- **DLBP: Deterministic LLM Blackboard Pipeline** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
-- **MKMU Conceptual Framework** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
-- **MKMU Reference Implementation & Evaluation** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
-- **Digital Echopraxia (to be revised)** — [Preprint](https://doi.org/10.5281/zenodo.19159055)
+- **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
+- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
+- **Ethics for Artificial Intelligence: A Minimal Alignment Framework Based on Maitrī, Karuṇā, Muditā, and Upekṣā** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
+- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
+- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19159055)
 
 ---
 
@@ -37,8 +37,8 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## Concept Notes (Zenodo)
 
-- **RLWF: A Preliminary Concept** — [https://doi.org/10.5281/zenodo.19176921](https://doi.org/10.5281/zenodo.19176921)
-- **RLHF-Trained LLMs are Parasitic by Design** — [https://doi.org/10.5281/zenodo.19182346](https://doi.org/10.5281/zenodo.19182346)
+- **Reinforcement Learning from World Feedback (RLWF): A Preliminary Concept** — [https://doi.org/10.5281/zenodo.19176921](https://doi.org/10.5281/zenodo.19176921)
+- **RLHF-Trained LLMs are Parasitic by Design: A Preliminary Concept Note** — [https://doi.org/10.5281/zenodo.19182346](https://doi.org/10.5281/zenodo.19182346)
 
 ---
 
