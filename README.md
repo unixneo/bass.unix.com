@@ -13,13 +13,25 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints
+## 2026 Publications & Preprints (Updated April 9, 2026)
 
+- **A Multi-Agent LLM Experiment Revealing Architect-Level Failure Modes in Scientific Software Development** (2026-04-08) — [Preprint](https://doi.org/10.5281/zenodo.19466731)
+- **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
+- **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
 - **Blackboard SA** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
 - **DLBP: Deterministic LLM Blackboard Pipeline** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
 - **MKMU Conceptual Framework** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
 - **MKMU Reference Implementation & Evaluation** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
 - **Digital Echopraxia (to be revised)** — [Preprint](https://doi.org/10.5281/zenodo.19159055)
+
+---
+
+## Recent Projects (Zenodo Software)
+
+- **rh_math: A Pure-Ruby Gem for Bounded Benchmark Math and Comparison in rh_llm_benchmark** (2026-04-09) — [https://doi.org/10.5281/zenodo.19481858](https://doi.org/10.5281/zenodo.19481858)
+- **rh_llm_benchmark: A Controlled Experiment in LLM-Assisted Scientific Software Development for Research Benchmarking of RH-Related Numerical Workflows** (2026-04-09) — [https://doi.org/10.5281/zenodo.19481455](https://doi.org/10.5281/zenodo.19481455)
+- **quantum_bench: A Multi-Agent LLM Experiment Revealing Architect-Level Failure Modes in Scientific Software Development** (2026-04-08) — [https://doi.org/10.5281/zenodo.19467178](https://doi.org/10.5281/zenodo.19467178)
+- **protein_variants: A Controlled Experiment in LLM-Assisted Scientific Software Development Using a Blackboard Knowledge Source Architecture for Deterministic Protein Missense Variant Interpretation** (2026-04-06) — [https://doi.org/10.5281/zenodo.19436320](https://doi.org/10.5281/zenodo.19436320)
 
 ---
 
