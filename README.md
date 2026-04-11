@@ -28,7 +28,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## Recent Projects (Zenodo Software)
 
-- **StellarPop: A Ruby on Rails Stellar Population Synthesis Pipeline** — [https://doi.org/10.5281/zenodo.19277970](https://doi.org/10.5281/zenodo.19277970)
+- **StellarPop: A Ruby on Rails Stellar Population Synthesis Pipeline** (2026-04-04) — [https://doi.org/10.5281/zenodo.19277970](https://doi.org/10.5281/zenodo.19277970)
 - **rh_math: A Pure-Ruby Gem for Bounded Benchmark Math and Comparison in rh_llm_benchmark** (2026-04-09) — [https://doi.org/10.5281/zenodo.19481858](https://doi.org/10.5281/zenodo.19481858)
 - **rh_llm_benchmark: A Controlled Experiment in LLM-Assisted Scientific Software Development for Research Benchmarking of RH-Related Numerical Workflows** (2026-04-09) — [https://doi.org/10.5281/zenodo.19481455](https://doi.org/10.5281/zenodo.19481455)
 - **quantum_bench: A Multi-Agent LLM Experiment Revealing Architect-Level Failure Modes in Scientific Software Development** (2026-04-08) — [https://doi.org/10.5281/zenodo.19467178](https://doi.org/10.5281/zenodo.19467178)
