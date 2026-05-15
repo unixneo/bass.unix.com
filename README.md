@@ -15,15 +15,16 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## 2026 Publications & Preprints (Updated April 24, 2026)
 
+- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** (2026-05-12) — IAIT2026 (Accepted; not camera ready) — [Preprint](https://doi.org/10.5281/zenodo.20152238)
 - **When LLMs Pass Tests but Fail the Process: A Governance Framework and Empirical Study of Multi-Agent LLM Software Development** (2026-04-24) — [Preprint](https://doi.org/10.5281/zenodo.19736546)
 - **A Multi-Agent LLM Experiment Revealing Architect-Level Failure Modes in Scientific Software Development** (2026-04-08) — [Preprint](https://doi.org/10.5281/zenodo.19547884)
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
 - **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — IAIT2026 (Accepted for Publication) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
-- **Ethics for Artificial Intelligence: A Minimal Alignment Framework Based on Maitrī, Karuṇā, Muditā, and Upekṣā** — IAIT2026 (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
+- **Ethics for Artificial Intelligence: A Minimal Alignment Framework Based on Maitrī, Karuṇā, Muditā, and Upekṣā** — Journal (under review) — [Preprint](https://doi.org/10.5281/zenodo.19089392)
 - **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
-- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19571055)
+- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19851831)
 
 ---
 
