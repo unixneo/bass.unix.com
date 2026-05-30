@@ -30,7 +30,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — IAIT2026 (Accepted for Publication) — [Preprint](https://doi.org/10.5281/zenodo.19068475)
 - **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** — Journal (under review) — [Preprint](https://doi.org/10.5281/zenodo.20437102)
 - **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
-- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19851831)
+- **Digital Echopraxia** — [Preprint](https://zenodo.org/records/20230479)
 
 ---
 
