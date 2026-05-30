@@ -19,7 +19,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints (Updated April 24, 2026)
+## 2026 Publications & Preprints (Updated May 30, 2026)
 
 - **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** (2026-05-12) — IAIT2026 (Accepted; not camera ready) — [Preprint](https://zenodo.org/records/20152238)
 - **When LLMs Pass Tests but Fail the Process: A Governance Framework and Empirical Study of Multi-Agent LLM Software Development** (2026-05-24) — [Preprint](https://zenodo.org/records/20371204)
