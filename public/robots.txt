@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://bass.unix.com/sitemap.xml

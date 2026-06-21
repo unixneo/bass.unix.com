@@ -15,7 +15,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## Research Profiles
 
-[ORCID](https://orcid.org/0000-0001-9368-6838) | [ResearchGate](https://www.researchgate.net/profile/Tim-Bass) | [Zenodo](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=mostviewed) | [Google Scholar](https://scholar.google.com/citations?user=grVHePAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/timbass/) | [GitHub](https://github.com/unixneo)
+[ORCID](https://orcid.org/0000-0001-9368-6838) | [ResearchGate](https://www.researchgate.net/profile/Tim-Bass) | [Zenodo](https://zenodo.org/search?q=creators.orcid%3A%220000-0001-9368-6838%22&l=list&p=1&s=10&sort=mostviewed) | [Google Scholar](https://scholar.google.com/citations?user=grVHePAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/timbass/) | [GitHub](https://github.com/unixneo)
 
 ---
 
