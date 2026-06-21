@@ -19,7 +19,7 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints (Updated June 16, 2026)
+## 2026 Publications & Preprints (Updated June 21, 2026)
 
 - **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
@@ -28,6 +28,9 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 - **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
 - **Digital Echopraxia** — Discover AI, Springer Nature (under review) — [Preprint](https://zenodo.org/records/20230479)
 - **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** — Discover AI, Springer Nature (with editor) — [Preprint](https://doi.org/10.5281/zenodo.20437102)
+
+---
+
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
 
