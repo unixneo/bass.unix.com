@@ -15,14 +15,14 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## Research Profiles
 
-[ORCID](https://orcid.org/0000-0001-9368-6838) | [ResearchGate](https://www.researchgate.net/profile/Tim-Bass) | [Zenodo](https://zenodo.org/search?q=creators.orcid%3A%220000-0001-9368-6838%22&l=list&p=1&s=10&sort=mostviewed) | [Google Scholar](https://scholar.google.com/citations?user=grVHePAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/timbass/) | [GitHub](https://github.com/unixneo)
+[ORCID](https://orcid.org/0000-0001-9368-6838) | [ResearchGate](https://www.researchgate.net/profile/Tim-Bass) | [Zenodo](https://zenodo.org/search?q=creators.orcid%3A%220000-0001-9368-6838%22&l=list&p=1&s=10&sort=mostviewed) | [Google Scholar](https://scholar.google.com/citations?user=grVHePAAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/timbass/) | [GitHub](https://github.com/unixneo) | [RubyGems](https://rubygems.org/profiles/ruby_coder) | [SlideShare](https://www.slideshare.net/TimBassCEP)
 
 ---
 
 ## 2026 Publications & Preprints (Updated June 21, 2026)
 
-- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
+- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
 - **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
 - **Digital Echopraxia** — Discover AI, Springer Nature (under review) — [Preprint](https://zenodo.org/records/20230479)
 - **When LLMs Pass Tests but Fail the Process: A Governance Framework and Empirical Study of Multi-Agent LLM Software Development** (2026-05-24) — Information and Software Technology, Elsevier (under review) — [Preprint](https://zenodo.org/records/20371204)
@@ -33,6 +33,13 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 - **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** — [Preprint](https://doi.org/10.5281/zenodo.20437102)
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
+
+---
+
+## Presentations
+
+- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711699](https://doi.org/10.5281/zenodo.20711699)
+- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711932](https://doi.org/10.5281/zenodo.20711932)
 
 ---
 
