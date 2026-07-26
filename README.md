@@ -19,17 +19,17 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints (Updated July 17, 2026)
+## 2026 Publications & Preprints (Updated July 26, 2026)
 
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
 - **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
 - **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
 - **When LLMs Pass Tests but Fail the Process: A Governance Framework and Empirical Study of Multi-Agent LLM Software Development** (2026-05-24) — Information and Software Technology, Elsevier (under review) — [Preprint](https://doi.org/10.5281/zenodo.20371204)
 - **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
+- **Digital Echopraxia** — Philosophy & Technology, Springer Nature (preprint) — [Preprint](https://doi.org/10.5281/zenodo.21580140)
 
 ---
 
-- **Digital Echopraxia** — [Working paper](https://doi.org/10.5281/zenodo.20230479)
 - **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** — [Preprint](https://doi.org/10.5281/zenodo.20437102)
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
