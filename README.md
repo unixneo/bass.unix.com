@@ -19,14 +19,14 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints (Updated July 26, 2026)
+## 2026 Publications & Preprints (Updated August 14, 2026)
 
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
 - **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
-- **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
-- **When LLMs Pass Tests but Fail the Process: A Governance Framework and Empirical Study of Multi-Agent LLM Software Development** (2026-05-24) — Information and Software Technology, Elsevier (under review) — [Preprint](https://doi.org/10.5281/zenodo.20371204)
-- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
-- **Digital Echopraxia** — Philosophy & Technology, Springer Nature (preprint) — [Preprint](https://doi.org/10.5281/zenodo.21580140)
+- **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
+- **When LLMs Pass Tests but Fail the Process: A Constitutive Human-in-the-Loop Governance Framework for Multi-Agent LLM Software Development** — Journal of Systems and Software, Elsevier (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.21787887)
+- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under editor review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
+- **Digital Echopraxia** — Ethics and Information Technology (under editor review) — [Preprint](https://doi.org/10.5281/zenodo.19159054)
 
 ---
 
@@ -62,9 +62,10 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## Concept Notes (Zenodo)
+## Working Papers, Technical Notes & Concept Notes (Zenodo)
 
-- **Digital Echopraxia Level 2: Bidirectional Feedback Between Language Models and the Research Record (A Preliminary Concept Note)** — [https://doi.org/10.5281/zenodo.21221796](https://doi.org/10.5281/zenodo.21221796)
+- **Recursive Digital Echopraxia** — Working paper — [https://doi.org/10.5281/zenodo.21221795](https://doi.org/10.5281/zenodo.21221795)
+- **A Toy Dynamical Model of Recursive Digital Echopraxia** — Technical note — [https://doi.org/10.5281/zenodo.21637999](https://doi.org/10.5281/zenodo.21637999)
 - **Reinforcement Learning from World Feedback (RLWF): A Preliminary Concept** — [https://doi.org/10.5281/zenodo.19176921](https://doi.org/10.5281/zenodo.19176921)
 - **RLHF-Trained LLMs are Parasitic by Design: A Preliminary Concept Note** — [https://doi.org/10.5281/zenodo.19182346](https://doi.org/10.5281/zenodo.19182346)
 
