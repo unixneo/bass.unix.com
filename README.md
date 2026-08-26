@@ -19,13 +19,13 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ---
 
-## 2026 Publications & Preprints (Updated August 14, 2026)
+## 2026 Publications & Preprints (Updated August 26, 2026)
 
 - **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
 - **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
+- **When LLMs Pass Tests but Fail the Process: Lessons from Governing a Multi-Agent Software Development Project** — Journal of Systems and Software, Elsevier (In Practice) (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.22057224)
 - **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
-- **When LLMs Pass Tests but Fail the Process: A Constitutive Human-in-the-Loop Governance Framework for Multi-Agent LLM Software Development** — Journal of Systems and Software, Elsevier (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.21787887)
-- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (under editor review) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
+- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (major revisions requested) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
 - **Digital Echopraxia** — Ethics and Information Technology (under editor review) — [Preprint](https://doi.org/10.5281/zenodo.19159054)
 
 ---
