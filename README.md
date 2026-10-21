@@ -21,16 +21,16 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## 2026 Publications & Preprints (Updated October 21, 2026)
 
-- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
-- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
-- **When LLMs Pass Tests but Fail the Process: Lessons from Governing a Multi-Agent Software Development Project** — Journal of Systems and Software, Elsevier (In Practice) (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.22057224)
-- **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** — ACM DTRAP (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
-- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** — AI & Society, AI in Asia Collection (major revisions requested) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
+- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** (2026-06-16) — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818808)
+- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** (2026-06-16) — Proceedings of the 14th International Conference on Advances in Information Technology (IAIT '26) — [ACM DOI](https://doi.org/10.1145/3816713.3818807)
+- **When LLMs Pass Tests but Fail the Process: Lessons from Governing a Multi-Agent Software Development Project** (2026-08-22) — Journal of Systems and Software, Elsevier (In Practice) (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.22057224)
+- **Blackboard SA: Operationalizing LLM Knowledge Source Specialization for Cyber Situational Awareness** (2026-03-01) — ACM DTRAP (under peer review) — [Preprint](https://doi.org/10.5281/zenodo.18824512)
+- **A Reference Implementation and Exploratory Evaluation of the MKMU Ethical AI Framework** (2026-03-21) — AI & Society, AI in Asia Collection (major revisions requested) — [Preprint](https://doi.org/10.5281/zenodo.19143912)
 
 ---
 
-- **Digital Echopraxia** — [Preprint](https://doi.org/10.5281/zenodo.19159054)
-- **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** — [Preprint](https://doi.org/10.5281/zenodo.20437102)
+- **Digital Echopraxia** (2026-07-27) — [Preprint](https://doi.org/10.5281/zenodo.19159054)
+- **A Minimal Ethical AI Alignment Framework for Large Language Models Based on Metta, Karuna, Mudita and Upekkha** (2026-05-26) — [Preprint](https://doi.org/10.5281/zenodo.20437102)
 - **A Deterministic Blackboard Knowledge Source Engine for Protein Missense Variant Interpretation: A Controlled Experiment in LLM-Assisted Scientific Software Development** (2026-04-06) — [Preprint](https://doi.org/10.5281/zenodo.19438177)
 - **Multi-Agent Development of a Domain-Specific Scientific Application: Complexity Classes in Building StellarPop** (2026-04-04) — [Preprint](https://doi.org/10.5281/zenodo.19414914)
 
@@ -38,8 +38,8 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## Presentations
 
-- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711699](https://doi.org/10.5281/zenodo.20711699)
-- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711932](https://doi.org/10.5281/zenodo.20711932)
+- **Deterministic Blackboard Pipelines with Specialized LLM Knowledge Sources: A Generalizable Architecture for Intelligent Multi-Stage Reasoning** (2026-06-16) — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711699](https://doi.org/10.5281/zenodo.20711699)
+- **A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development** (2026-06-16) — IAIT2026 Presentation Slides — [https://doi.org/10.5281/zenodo.20711932](https://doi.org/10.5281/zenodo.20711932)
 
 ---
 
@@ -56,18 +56,18 @@ My research focuses on AI alignment, cyber situational awareness, and multisenso
 
 ## RubyGems Packages
 
-- **n_queens** — [https://rubygems.org/gems/n_queens](https://rubygems.org/gems/n_queens) — Solves the N-Queens problem using dynamically selected algorithms. Returns solution count and solutions array for small n.
-- **rh_math** — [https://rubygems.org/gems/rh_math](https://rubygems.org/gems/rh_math) — A research-oriented pure-Ruby math layer for bounded analytic number theory evaluation workflows.
-- **fits_parser** — [https://rubygems.org/gems/fits_parser](https://rubygems.org/gems/fits_parser) — A lightweight Ruby parser for FITS files with header/HDU parsing and basic BINTABLE support.
+- **n_queens** (2026-04-23) — [https://rubygems.org/gems/n_queens](https://rubygems.org/gems/n_queens) — Solves the N-Queens problem using dynamically selected algorithms. Returns solution count and solutions array for small n.
+- **rh_math** (2026-04-09) — [https://rubygems.org/gems/rh_math](https://rubygems.org/gems/rh_math) — A research-oriented pure-Ruby math layer for bounded analytic number theory evaluation workflows.
+- **fits_parser** (2026-04-01) — [https://rubygems.org/gems/fits_parser](https://rubygems.org/gems/fits_parser) — A lightweight Ruby parser for FITS files with header/HDU parsing and basic BINTABLE support.
 
 ---
 
 ## Working Papers, Technical Notes & Concept Notes (Zenodo)
 
-- **Recursive Digital Echopraxia** — Working paper — [https://doi.org/10.5281/zenodo.21221795](https://doi.org/10.5281/zenodo.21221795)
-- **A Toy Dynamical Model of Recursive Digital Echopraxia** — Technical note — [https://doi.org/10.5281/zenodo.21637999](https://doi.org/10.5281/zenodo.21637999)
-- **Reinforcement Learning from World Feedback (RLWF): A Preliminary Concept** — [https://doi.org/10.5281/zenodo.19176921](https://doi.org/10.5281/zenodo.19176921)
-- **RLHF-Trained LLMs are Parasitic by Design: A Preliminary Concept Note** — [https://doi.org/10.5281/zenodo.19182346](https://doi.org/10.5281/zenodo.19182346)
+- **Recursive Digital Echopraxia** (2026-07-29) — Working paper — [https://doi.org/10.5281/zenodo.21221795](https://doi.org/10.5281/zenodo.21221795)
+- **A Toy Dynamical Model of Recursive Digital Echopraxia** (2026-07-28) — Technical note — [https://doi.org/10.5281/zenodo.21637999](https://doi.org/10.5281/zenodo.21637999)
+- **Reinforcement Learning from World Feedback (RLWF): A Preliminary Concept** (2026-03-23) — [https://doi.org/10.5281/zenodo.19176921](https://doi.org/10.5281/zenodo.19176921)
+- **RLHF-Trained LLMs are Parasitic by Design: A Preliminary Concept Note** (2026-03-23) — [https://doi.org/10.5281/zenodo.19182346](https://doi.org/10.5281/zenodo.19182346)
 
 ---
 
